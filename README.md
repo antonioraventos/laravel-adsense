@@ -7,7 +7,7 @@ Package for including Adsense Ads in Laravel 5.
 In your project root run
 
 ```
-composer require antonioraventos/laravel-adsense
+composer require rabol/laravel-adsense
 ```
 
 ### Set up config file
